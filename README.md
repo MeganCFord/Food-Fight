@@ -1,5 +1,8 @@
 #Gauntlet game
 
+Group project (3 day timeline June 2016) to demonstrate knowledge learned during Nashville Software School's 6 month bootcamp front end curriculum. Food Fight theme, completely custom code. 
+
+#Instructions
 Time to use protypal inheritance to build a game.
 
 Some enterprising, young, software developer decided to build a simple web-based RPG that lets a human player fight against an array of different enemies. Unfortunately, there wasn't enough time to finish the project because aliens took over the Earth and everyone was shipped off to the plutonium mines.
